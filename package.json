@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "node": "^19.4.0",
+    "nodemon": "^2.0.20"
+  },
+  "name": "simple-login-in-form",
+  "version": "1.0.0",
+  "description": "a sample login form",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joshua",
+  "license": "ISC"
+}
